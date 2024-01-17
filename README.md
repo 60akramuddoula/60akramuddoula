@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpaperforu.com/wallpaper-0-days-programmers-programming-motivational-code/)
+
 <h1 align="center">Hi 👋, I'm Akramuddoula Bappi</h1>
 <h3 align="center">A passionate Backend developer and Competitive programmer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
