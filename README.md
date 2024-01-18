@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:786/format:webp/0*WVfimFBOp5OrEMze.gif"  />
 
 ###
 
