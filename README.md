@@ -1,6 +1,19 @@
 <h4 align="left">Hi there👋, I’m Akramuddoula Bappi<br>I am a third year ECE student from KUET<br><br>My Reseach Interest:<br>- Machine Learning(ML)<br><br>I am open to:<br>- 👯 any collobration on Data Structure & Algorithm with C++ and Problem Solving<br>- 🌱 I’m currently learning Python</h4>
 
 ###
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.leetcode.com/akramuddoula_60" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akramuddoula_60" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@akramuddoula60" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@akramuddoula60" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/bappi2009060" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bappi2009060" height="30" width="40" /></a>
+<a href="https://www.codingninjas.com/studio/profile/9aec6d49-5802-4b5c-a10f-f0dc46a429be="_blank">
+<img src="https://img.shields.io/badge/Coding%20Ninjas-Profile-brightgreen?style=flat&logo=codingninjas" alt="Coding Ninjas Profile" />
+</a>
+<a href="https://linkedin.com/in/md-akramuddoula-bappi-359138293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-akramuddoula-bappi-359138293" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@akramuddoula60" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@akramuddoula60" height="30" width="40" /></a>
+
+
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=60akramuddoula&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
