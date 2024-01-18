@@ -32,12 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=60akramuddoula&show_icons=true&locale=en" alt="60akramuddoula" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=60akramuddoula&" alt="60akramuddoula" /></p>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/60akramuddoula/count.svg?"  />
-</div>
 
-###
-
-<img src="https://raw.githubusercontent.com/60akramuddoula/60akramuddoula/output/snake.svg" alt="Snake animation" />
-
-###
