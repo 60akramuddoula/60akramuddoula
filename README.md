@@ -1,4 +1,4 @@
-<h4 align="left">Hi there👋, I’m Akramuddoula Bappi<br>I am a third year ECE student from KUET<br><br>My Reseach Interest:<br>- Machine Learning(ML)<br><br>I am open to:<br>- 👯 any collobration on Data Structure & Algorithm with C++ and Problem Solving<br>- 🌱 I’m currently learning Python</h4>
+<h4 align="left">Hi there👋, I’m Akramuddoula Bappi<br>I am a third year ECE student from KUET<br><br>My Research Interest:<br>- Machine Learning(ML)<br><br>I am open to:<br>- 👯 any collobration on Data Structure & Algorithm with C++ and Problem Solving<br>- 🌱 I’m currently learning Python</h4>
 
 ###
 <h3 align="left">Connect with me:</h3>
